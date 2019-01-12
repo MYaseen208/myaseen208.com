@@ -18,11 +18,17 @@ mathjax: true
 output:
   blogdown::html_page:
     toc: true
+header-includes: 
+  - \usepackage{tikz}
+  - \usepackage{pgfplots}    
 ---
+
+
 
 
 <div id="TOC">
 <ul>
+<li><a href="#introduction">Introduction</a></li>
 <li><a href="#statistics">Statistics</a></li>
 <li><a href="#variable">Variable</a></li>
 <li><a href="#measurement">Measurement</a></li>
@@ -40,6 +46,16 @@ output:
 </ul>
 </div>
 
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<blockquote>
+<ul>
+<li>In God we trust, all others must bring data. (W. Edwards Deming)</li>
+<li>In Data we trust, all others must bring data.</li>
+</ul>
+</blockquote>
+<p> </p>
+</div>
 <div id="statistics" class="section level1">
 <h1>Statistics</h1>
 <blockquote>
@@ -206,8 +222,8 @@ print(Fit1.summary())</code></pre>
 Dep. Variable:                 Expend   R-squared:                       0.962
 Model:                            OLS   Adj. R-squared:                  0.957
 Method:                 Least Squares   F-statistic:                     202.9
-Date:                Thu, 20 Sep 2018   Prob (F-statistic):           5.75e-07
-Time:                        16:59:01   Log-Likelihood:                -31.781
+Date:                Tue, 02 Oct 2018   Prob (F-statistic):           5.75e-07
+Time:                        15:25:26   Log-Likelihood:                -31.781
 No. Observations:                  10   AIC:                             67.56
 Df Residuals:                       8   BIC:                             68.17
 Df Model:                           1                                         
@@ -384,8 +400,8 @@ print(Fit2.summary())</code></pre>
 Dep. Variable:                  Yield   R-squared:                       0.981
 Model:                            OLS   Adj. R-squared:                  0.972
 Method:                 Least Squares   F-statistic:                     105.3
-Date:                Thu, 20 Sep 2018   Prob (F-statistic):           0.000347
-Time:                        16:59:02   Log-Likelihood:                -13.848
+Date:                Tue, 02 Oct 2018   Prob (F-statistic):           0.000347
+Time:                        15:25:27   Log-Likelihood:                -13.848
 No. Observations:                   7   AIC:                             33.70
 Df Residuals:                       4   BIC:                             33.53
 Df Model:                           2                                         
@@ -572,8 +588,8 @@ print(Fit3.summary())</code></pre>
 Dep. Variable:                  Yield   R-squared:                       0.944
 Model:                            OLS   Adj. R-squared:                  0.907
 Method:                 Least Squares   F-statistic:                     25.33
-Date:                Thu, 20 Sep 2018   Prob (F-statistic):             0.0132
-Time:                        16:59:03   Log-Likelihood:                -8.5136
+Date:                Tue, 02 Oct 2018   Prob (F-statistic):             0.0132
+Time:                        15:25:27   Log-Likelihood:                -8.5136
 No. Observations:                   6   AIC:                             23.03
 Df Residuals:                       3   BIC:                             22.40
 Df Model:                           2                                         

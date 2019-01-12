@@ -18,6 +18,9 @@ mathjax: true
 output:
   blogdown::html_page:
     toc: true
+header-includes: 
+  - \usepackage{tikz}
+  - \usepackage{pgfplots}    
 ---
 
 ```{r, label = setup, include = FALSE, cache = FALSE}
@@ -68,6 +71,12 @@ import warnings
 if not sys.warnoptions:
     warnings.simplefilter("ignore")
 ```
+
+# Introduction
+> * In God we trust, all others must bring data. (W. Edwards Deming)
+  * In Data we trust, all others must bring data.
+
+&nbsp;
 
 
 # Statistics

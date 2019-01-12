@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/myaseen208/2019-sixsigmar/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publications/2018_jabeen_etal/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -317,7 +322,7 @@
   
   <url>
     <loc>/categories/data-science/</loc>
-    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -359,13 +364,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/myaseen208/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -394,14 +399,20 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <loc>/categories/quality-control/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -436,6 +447,12 @@
   </url>
   
   <url>
+    <loc>/categories/six-sigma/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/software/</loc>
   </url>
   
@@ -446,14 +463,14 @@
   </url>
   
   <url>
-    <loc>/tags/statistics/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <loc>/categories/statistics/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/statistics/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
