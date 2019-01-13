@@ -58,6 +58,10 @@ knit_hooks$set(error=muffleError)
 knitr::read_chunk("2019-SixSigmawithR.R")
 ```
 
+![](/img/2019-SixSigmaR/SixSigmaR3.png)
+
+&nbsp;
+
 
 ![](/img/2019-SixSigmaR/2019-SixSigmaR.png)
 
