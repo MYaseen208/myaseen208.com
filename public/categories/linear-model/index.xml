@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Model on Muhammad Yaseen</title>
+    <link>/categories/linear-model/</link>
+    <description>Recent content in Linear Model on Muhammad Yaseen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/linear-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linear Model using Python</title>
+      <link>/myaseen208/2019-pythonlmbzu/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/myaseen208/2019-pythonlmbzu/</guid>
+      <description>Python Basics Variables and Data Types Variable Assignment Calculations With Variables Types and Type Conversion  Logical Operators Comparison If-Else Function Help  Simple Linear Regression Multiple Linear Regression Polynomial Regression Regression with Dummy Variables Example 1 Example 2 Example 3 Regression with same slopes and different intercepts Regression with different slopes and different intercepts     Python Basics Variables and Data Types Variable Assignment x = 5 x # dir(x) 5  Calculations With Variables x + 2 # Sum of two variables 7 x - 2 # Subtraction of two variables 3 x*2 # Multiplication of two variables 10 x**2 # Exponentiation of a variable 25 x%2 # Remainder of a variable 1 x/float(2) # Division of a variable 2.</description>
+    </item>
+    
+  </channel>
+</rss>
