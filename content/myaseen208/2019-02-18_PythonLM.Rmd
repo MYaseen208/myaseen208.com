@@ -346,7 +346,7 @@ print(Fit2.centered_tss)
 print(anova_lm(Fit2))
 ```
 
-```{python, eval = FALSE}
+```{python, eval = TRUE}
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import pyplot as plt
 import numpy as np
@@ -377,7 +377,7 @@ out = Fit2.predict(exog = exog)
 ax.plot_surface(
            x_surf
          , y_surf
-         , out.reshape(x_surf.shape)
+         , out.values.reshape(x_surf.shape)
          , rstride=1
          , cstride=1
          , color="None"
