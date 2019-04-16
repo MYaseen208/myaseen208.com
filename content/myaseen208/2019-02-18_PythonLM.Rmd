@@ -573,6 +573,22 @@ print(Fit6.centered_tss)
 print(anova_lm(Fit6))
 ```
 
+```{python}
+import matplotlib.pyplot as plt
+from statsmodels.graphics.factorplots import interaction_plot
+fig = plt.figure()
+fig = interaction_plot(
+    x        = Income
+  , trace    = Gender
+  , response = Fit6.fittedvalues
+  , colors   = ['red','blue']
+  , markers  = ['D','^']
+  , xlabel   ='Income'
+  , ylabel   = 'Consumption'
+  )
+plt.show()
+```
+
 ### Regression with different slopes and different intercepts
 ```{python}
 from statsmodels.formula.api import ols
@@ -587,4 +603,20 @@ print(Fit7.resid)
 print(Fit7.bse)
 print(Fit7.centered_tss)
 print(anova_lm(Fit7))
+```
+
+```{python}
+import matplotlib.pyplot as plt
+from statsmodels.graphics.factorplots import interaction_plot
+fig = plt.figure()
+fig = interaction_plot(
+    x        = Income
+  , trace    = Gender
+  , response = Fit7.fittedvalues
+  , colors   = ['red','blue']
+  , markers  = ['D','^']
+  , xlabel   ='Income'
+  , ylabel   = 'Consumption'
+  )
+plt.show()
 ```
