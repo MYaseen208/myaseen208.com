@@ -297,8 +297,8 @@ print(Fit1.summary())</code></pre>
 Dep. Variable:                 Expend   R-squared:                       0.962
 Model:                            OLS   Adj. R-squared:                  0.957
 Method:                 Least Squares   F-statistic:                     202.9
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):           5.75e-07
-Time:                        14:16:06   Log-Likelihood:                -31.781
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):           5.75e-07
+Time:                        10:31:38   Log-Likelihood:                -31.781
 No. Observations:                  10   AIC:                             67.56
 Df Residuals:                       8   BIC:                             68.17
 Df Model:                           1                                         
@@ -427,8 +427,8 @@ print(Fit2.summary())</code></pre>
 Dep. Variable:                  Yield   R-squared:                       0.981
 Model:                            OLS   Adj. R-squared:                  0.972
 Method:                 Least Squares   F-statistic:                     105.3
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):           0.000347
-Time:                        14:16:07   Log-Likelihood:                -13.848
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):           0.000347
+Time:                        10:31:39   Log-Likelihood:                -13.848
 No. Observations:                   7   AIC:                             33.70
 Df Residuals:                       4   BIC:                             33.53
 Df Model:                           2                                         
@@ -571,8 +571,8 @@ print(Fit3.summary())</code></pre>
 Dep. Variable:                  Yield   R-squared:                       0.944
 Model:                            OLS   Adj. R-squared:                  0.907
 Method:                 Least Squares   F-statistic:                     25.33
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):             0.0132
-Time:                        14:16:08   Log-Likelihood:                -8.5136
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):             0.0132
+Time:                        10:31:40   Log-Likelihood:                -8.5136
 No. Observations:                   6   AIC:                             23.03
 Df Residuals:                       3   BIC:                             22.40
 Df Model:                           2                                         
@@ -689,8 +689,8 @@ print(dir(Fit4))</code></pre>
 Dep. Variable:            Consumption   R-squared:                       0.974
 Model:                            OLS   Adj. R-squared:                  0.968
 Method:                 Least Squares   F-statistic:                     150.0
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):           0.000255
-Time:                        14:16:08   Log-Likelihood:                -7.2972
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):           0.000255
+Time:                        10:31:40   Log-Likelihood:                -7.2972
 No. Observations:                   6   AIC:                             18.59
 Df Residuals:                       4   BIC:                             18.18
 Df Model:                           1                                         
@@ -763,8 +763,8 @@ print(Fit5.summary())</code></pre>
 Dep. Variable:            Consumption   R-squared:                       0.965
 Model:                            OLS   Adj. R-squared:                  0.942
 Method:                 Least Squares   F-statistic:                     41.33
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):            0.00655
-Time:                        14:16:09   Log-Likelihood:                -8.5136
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):            0.00655
+Time:                        10:31:40   Log-Likelihood:                -8.5136
 No. Observations:                   6   AIC:                             23.03
 Df Residuals:                       3   BIC:                             22.40
 Df Model:                           2                                         
@@ -841,8 +841,8 @@ print(Fit6.summary())</code></pre>
 Dep. Variable:            Consumption   R-squared:                       0.963
 Model:                            OLS   Adj. R-squared:                  0.955
 Method:                 Least Squares   F-statistic:                     116.7
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):           3.66e-07
-Time:                        14:16:09   Log-Likelihood:                -12.525
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):           3.66e-07
+Time:                        10:31:40   Log-Likelihood:                -12.525
 No. Observations:                  12   AIC:                             31.05
 Df Residuals:                       9   BIC:                             32.51
 Df Model:                           2                                         
@@ -912,6 +912,20 @@ dtype: float64</code></pre>
 Gender    1.0  75.000000  75.00000  119.117647  0.000002
 Income    1.0  72.000000  72.00000  114.352941  0.000002
 Residual  9.0   5.666667   0.62963         NaN       NaN</code></pre>
+<pre class="python"><code>import matplotlib.pyplot as plt
+from statsmodels.graphics.factorplots import interaction_plot
+fig = plt.figure()
+fig = interaction_plot(
+    x        = Income
+  , trace    = Gender
+  , response = Fit6.fittedvalues
+  , colors   = [&#39;red&#39;,&#39;blue&#39;]
+  , markers  = [&#39;D&#39;,&#39;^&#39;]
+  , xlabel   =&#39;Income&#39;
+  , ylabel   = &#39;Consumption&#39;
+  )
+plt.show()</code></pre>
+<p><img src="/myaseen208/2019-02-18_PythonLM_files/figure-html/unnamed-chunk-31-1.svg" style="display: block; margin: auto;" /></p>
 </div>
 <div id="regression-with-different-slopes-and-different-intercepts" class="section level3">
 <h3>Regression with different slopes and different intercepts</h3>
@@ -926,8 +940,8 @@ print(Fit7.summary())</code></pre>
 Dep. Variable:            Consumption   R-squared:                       0.976
 Model:                            OLS   Adj. R-squared:                  0.967
 Method:                 Least Squares   F-statistic:                     108.4
-Date:                Sat, 16 Feb 2019   Prob (F-statistic):           8.11e-07
-Time:                        14:16:09   Log-Likelihood:                -9.9135
+Date:                Tue, 16 Apr 2019   Prob (F-statistic):           8.11e-07
+Time:                        10:31:41   Log-Likelihood:                -9.9135
 No. Observations:                  12   AIC:                             27.83
 Df Residuals:                       8   BIC:                             29.77
 Df Model:                           3                                         
@@ -1001,6 +1015,20 @@ Gender         1.0  75.000000  75.000000  163.636364  0.000001
 Income         1.0  72.000000  72.000000  157.090909  0.000002
 Gender:Income  1.0   2.000000   2.000000    4.363636  0.070134
 Residual       8.0   3.666667   0.458333         NaN       NaN</code></pre>
+<pre class="python"><code>import matplotlib.pyplot as plt
+from statsmodels.graphics.factorplots import interaction_plot
+fig = plt.figure()
+fig = interaction_plot(
+    x        = Income
+  , trace    = Gender
+  , response = Fit7.fittedvalues
+  , colors   = [&#39;red&#39;,&#39;blue&#39;]
+  , markers  = [&#39;D&#39;,&#39;^&#39;]
+  , xlabel   =&#39;Income&#39;
+  , ylabel   = &#39;Consumption&#39;
+  )
+plt.show()</code></pre>
+<p><img src="/myaseen208/2019-02-18_PythonLM_files/figure-html/unnamed-chunk-33-1.svg" style="display: block; margin: auto;" /></p>
 </div>
 </div>
 </div>
