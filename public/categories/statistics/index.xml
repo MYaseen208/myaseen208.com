@@ -5,10 +5,19 @@
     <link>/categories/statistics/</link>
     <description>Recent content in Statistics on Muhammad Yaseen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to wrtie a Research Paper and Hands on Training of SPSS - A Statistical Tool</title>
+      <link>/myaseen208/2019-04-18-uol/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/myaseen208/2019-04-18-uol/</guid>
+      <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example  Boxwhisker Diagram Example  Regression Analysis Simple Linear Regression Example Exercise Exercise  Multiple Linear Regression Example  Analysis of Variance (ANOVA) Example Exercise  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example    Introduction  Statistics   Statistics deals with uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data       Variable   Characteristic that may vary from individual to individual     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point     Descriptive Statistics   No of observations Measures of Central Tendency Measures of Dispersion Measures of Skewness Measures of Kurtosis    Example   Fertilizer (Kg/acre) Production (Bushels/acre)    100 70  200 70  400 80  500 100        Analyze &amp;gt; Descriptive Statistics &amp;gt; Descriptives …</description>
+    </item>
     
     <item>
       <title>Linear Model using Python</title>
