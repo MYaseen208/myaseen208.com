@@ -3,8 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/myaseen208/2019-04-18-uol/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/myaseen208/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/spss/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/statistics/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/ancova/</loc>
+    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/anova/</loc>
+    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/linear-model/</loc>
+    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,13 +73,61 @@
   </url>
   
   <url>
+    <loc>/categories/python/</loc>
+    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/regression-analysis/</loc>
+    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/dmaic/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/myaseen208/2019-sixsigmar/</loc>
     <lastmod>2019-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/categories/quality-control/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/six-sigma/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publications/2018_jabeen_etal/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/bioinformatics/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,6 +151,12 @@
   </url>
   
   <url>
+    <loc>/seminars/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/myaseen208/2018-05-15-pastic-fsd/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -53,8 +167,26 @@
   </url>
   
   <url>
+    <loc>/categories/google-apps/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/pakistan-population-census-2017/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/myaseen208/2018-05-13_ppcspatial/</loc>
     <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ppcspatial/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -73,8 +205,26 @@
   </url>
   
   <url>
+    <loc>/categories/linear-mixed-models/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/myaseen208/vetresearchlmm/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/veterinary-research/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/diallel-analysis/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -88,6 +238,12 @@
   </url>
   
   <url>
+    <loc>/categories/latex/</loc>
+    <lastmod>2018-04-20T22:13:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/myaseen208/about/</loc>
     <lastmod>2018-04-20T16:17:53+00:00</lastmod>
   </url>
@@ -98,8 +254,62 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publications/2017_murtaza_etal/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/amendments/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/leaching/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reclamation/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/saline-sodic-soil/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/structural-equation-modeling/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -110,6 +320,12 @@
   <url>
     <loc>/seminars/2017-nibaf-islamabad/</loc>
     <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/econometrics/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -303,187 +519,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/amendments/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/ancova/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/anova/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/bioinformatics/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/data-science/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/diallel-analysis/</loc>
-    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/dmaic/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/econometrics/</loc>
-    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/google-apps/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/latex/</loc>
-    <lastmod>2018-04-20T22:13:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/leaching/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/linear-mixed-models/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/linear-model/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/myaseen208/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/pakistan-population-census-2017/</loc>
-    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/ppcspatial/</loc>
-    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/python/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/quality-control/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/reclamation/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/regression-analysis/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/research/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/saline-sodic-soil/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/seminars/</loc>
-    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/six-sigma/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -491,43 +527,7 @@
   </url>
   
   <url>
-    <loc>/categories/spss/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/statistics/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/statistics/</loc>
-    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/structural-equation-modeling/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/veterinary-research/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

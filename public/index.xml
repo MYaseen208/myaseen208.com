@@ -34,7 +34,7 @@
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/myaseen208/2019-sixsigmar/</guid>
-      <description> </description>
+      <description>  </description>
     </item>
     
     <item>
@@ -584,7 +584,7 @@ Administrative responsibilities  Head of Department, Department of Mathematics &
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/software/</guid>
-      <description>R Packages/Software agriTutorial bayesammi baystability DiallelAnalysisR eda4treeR gvcR PakPC2017 PakPMICS2014Ch PakPMICS2014HH PakPMICS2014HL PakPMICS2014Wm ppcSpatial PSLM2015 stability StroupGLMM VetResearchLMM  LaTeX Packages/Software UAFSynopsis UAFThesis PakJAS     This page provides links to R &amp;amp; LaTeX packages I have (co)authored. The most recent versions of most packages are on github. Most R packages are also on CRAN.
+      <description>R Packages/Software agriTutorial bayesammi baystability DiallelAnalysisR dmai eda4treeR gvcR PakPC2017 PakPMICS2014Ch PakPMICS2014HH PakPMICS2014HL PakPMICS2014Wm ppcSpatial PSLM2015 qccrs rgsp stability StroupGLMM VetResearchLMM  LaTeX Packages/Software UAFSynopsis UAFThesis PakJAS     This page provides links to R &amp;amp; LaTeX packages I have (co)authored. The most recent versions of most packages are on github. Most R packages are also on CRAN.
  R Packages/Software agriTutorial  agriTutorial : Tutorial Analysis of Some Agricultural Experiments [Website]</description>
     </item>
     
@@ -594,8 +594,7 @@ Administrative responsibilities  Head of Department, Department of Mathematics &
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>Winter Semester 2018-2019 Stat-610: Experimental Design-II Stat-703: Design and Analysis of Experiments for Researchers Stat-712: Theory of Experimental Design  Summer Semester 2017-2018 Stat-703: Design and Analysis of Experiments for Researchers  Spring Semester 2017-2018 Stat-705: Advanced Design of Experiments Stat-703: Design and Analysis of Experiments for Researchers Stat-609: Experimental Design-I     Winter Semester 2018-2019 Stat-610: Experimental Design-II   pdf Syllabus  Learning Objectives
- To provide basic and advanced learning of investigation for conclusions through planning and designing of experiments.</description>
+      <description>Winter Semester 2018-2019 Stat-610: Experimental Design-II Stat-703: Design and Analysis of Experiments for Researchers Stat-712: Theory of Experimental Design  Summer Semester 2017-2018 Stat-703: Design and Analysis of Experiments for Researchers  Spring Semester 2017-2018 Stat-705: Advanced Design of Experiments Stat-703: Design and Analysis of Experiments for Researchers Stat-609: Experimental Design-I     Winter Semester 2018-2019 Stat-610: Experimental Design-II   pdf Syllabus  Learning Objectives</description>
     </item>
     
   </channel>

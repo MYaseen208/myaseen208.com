@@ -70,6 +70,12 @@ This page provides links to R & LaTeX packages I have (co)authored. The most rec
 
 &nbsp;
 
+## dmai
+> [**dmai**](https://cran.r-project.org/web/packages/dmai/index.html) :  *Divisia Monetary Aggregates Index* [[Website](https://myaseen208.github.io/dmai)]
+
+&nbsp;
+
+
 ## eda4treeR
 > [**eda4treeR**](https://cran.r-project.org/web/packages/eda4treeR/index.html) :  *Experimental Design and Analysis for Tree Improvement* [[Website](https://myaseen208.github.io/eda4treeR)]
 
@@ -112,6 +118,17 @@ This page provides links to R & LaTeX packages I have (co)authored. The most rec
 
 ## PSLM2015
 > [**PSLM2015**](https://cran.r-project.org/web/packages/PSLM2015/index.html) :  *Pakistan Social and Living Standards Measurement Survey 2014-15* [[Website](https://myaseen208.github.io/PSLM2015)]
+
+&nbsp;
+
+## qccrs
+> [**qccrs**](https://cran.r-project.org/web/packages/qccrs/index.html) :  *Quality Control Charts under Repetitive Sampling* [[Website](https://myaseen208.github.io/qccrs)]
+
+&nbsp;
+
+
+## rgsp
+> [**rgsp**](https://cran.r-project.org/web/packages/rgsp/index.html) :  *Repetitive Group Sampling Plan Based on Cpk* [[Website](https://myaseen208.github.io/rgsp)]
 
 &nbsp;
 
