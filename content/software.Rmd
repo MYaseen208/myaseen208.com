@@ -142,6 +142,12 @@ This page provides links to R & LaTeX packages I have (co)authored. The most rec
 
 &nbsp;
 
+## SupMZ
+> [**SupMZ**](https://cran.r-project.org/web/packages/SupMZ/index.html) :  *Detecting Structural Change with Heteroskedasticity* [[Website](https://myaseen208.github.io/SupMZ)]
+
+&nbsp;
+
+
 ## VetResearchLMM
 > [**VetResearchLMM**](https://cran.r-project.org/web/packages/VetResearchLMM/index.html) :  *Linear Mixed Models: An Introduction with Applications in Veterinary Research* [[Website](https://myaseen208.github.io/VetResearchLMM)]
 
